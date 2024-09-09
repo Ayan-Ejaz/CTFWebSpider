@@ -1,4 +1,4 @@
-# WebSpider
+# CTFWebSpider
 
 DESCRIPTION:
 
